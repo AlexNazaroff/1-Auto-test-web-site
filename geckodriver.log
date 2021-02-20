@@ -1,0 +1,24 @@
+1613812892484	geckodriver	INFO	Listening on 127.0.0.1:51514
+1613812895318	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMIN~1.ADM\\AppData\\Local\\Temp\\rust_mozprofileX3EPLL"
+1613813039200	geckodriver	INFO	Listening on 127.0.0.1:51582
+1613813042189	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMIN~1.ADM\\AppData\\Local\\Temp\\rust_mozprofiledu8gai"
+1613813169902	geckodriver	INFO	Listening on 127.0.0.1:51668
+1613813172785	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMIN~1.ADM\\AppData\\Local\\Temp\\rust_mozprofileLg0SnH"
+1613813230629	geckodriver	INFO	Listening on 127.0.0.1:51748
+1613813233623	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMIN~1.ADM\\AppData\\Local\\Temp\\rust_mozprofile5mySL8"
+Extensions: EGL_ANGLE_d3d_share_handle_client_buffer EGL_ANGLE_query_surface_pointer EGL_ANGLE_surface_d3d_texture_2d_share_handle 0x45
+Extensions length: 118
+1613813415840	geckodriver	INFO	Listening on 127.0.0.1:51854
+1613813418802	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMIN~1.ADM\\AppData\\Local\\Temp\\rust_mozprofileOjiX2e"
+1613813583780	geckodriver	INFO	Listening on 127.0.0.1:51941
+1613813586784	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMIN~1.ADM\\AppData\\Local\\Temp\\rust_mozprofileqTQ7Ac"
+1613813724035	geckodriver	INFO	Listening on 127.0.0.1:52023
+1613813726825	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMIN~1.ADM\\AppData\\Local\\Temp\\rust_mozprofileQqioNu"
+1613814474821	geckodriver	INFO	Listening on 127.0.0.1:52284
+1613814477711	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMIN~1.ADM\\AppData\\Local\\Temp\\rust_mozprofileYK6h2J"
+1613814598974	geckodriver	INFO	Listening on 127.0.0.1:52336
+1613814601971	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMIN~1.ADM\\AppData\\Local\\Temp\\rust_mozprofileMdlF3x"
+1613814718463	geckodriver	INFO	Listening on 127.0.0.1:52407
+1613814721453	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMIN~1.ADM\\AppData\\Local\\Temp\\rust_mozprofileDLDqnT"
+1613815324789	geckodriver	INFO	Listening on 127.0.0.1:52577
+1613815327622	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMIN~1.ADM\\AppData\\Local\\Temp\\rust_mozprofileayBkpD"
